@@ -1,0 +1,11 @@
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\bin\Debug\Rippee_311_A3.exe.config
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\bin\Debug\Rippee_311_A3.exe
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\bin\Debug\Rippee_311_A3.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\bin\Debug\Rippee_311_A3.xml
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.vbproj.AssemblyReference.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.Resources.resources
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.vbproj.GenerateResource.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.vbproj.CoreCompileInputs.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.exe
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.xml
+C:\Users\Austin Rippee\source\repos\Rippee_311_A3\Rippee_311_A3\obj\Debug\Rippee_311_A3.pdb
